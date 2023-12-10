@@ -2,3 +2,7 @@
     width: 100%;
 
 }
+
+ul.flashes {
+    list-style-type: none;
+}
